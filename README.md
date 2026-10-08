@@ -42,4 +42,12 @@
 |  |
 | ------- |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0876-middle-of-the-linked-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
