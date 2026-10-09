@@ -46,6 +46,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0021-merge-two-sorted-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0876-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -56,4 +57,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0088-merge-sorted-array) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
