@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/1732-find-the-highest-altitude) |
@@ -49,5 +50,10 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0876-middle-of-the-linked-list) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
