@@ -10,6 +10,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
@@ -70,4 +71,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0141-linked-list-cycle) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
