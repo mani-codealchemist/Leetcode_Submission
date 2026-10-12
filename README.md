@@ -11,6 +11,7 @@
 | [1732-find-the-highest-altitude](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
 |  |
@@ -24,6 +25,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0560-subarray-sum-equals-k) |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Union-Find
 |  |
 | ------- |
@@ -76,4 +78,12 @@
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
+## Greedy
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 <!---LeetCode Topics End-->
