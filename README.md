@@ -14,6 +14,7 @@
 | [2778-sum-of-squares-of-special-elements](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0088-merge-sorted-array) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
 |  |
 | ------- |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |
