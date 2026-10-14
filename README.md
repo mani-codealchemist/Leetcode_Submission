@@ -21,6 +21,7 @@
 | [0066-plus-one](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0066-plus-one) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -88,6 +89,7 @@
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
