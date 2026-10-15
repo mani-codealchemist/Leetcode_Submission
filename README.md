@@ -7,6 +7,7 @@
 | [0066-plus-one](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0128-longest-consecutive-sequence) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0283-move-zeroes](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/1732-find-the-highest-altitude) |
@@ -95,4 +96,8 @@
 |  |
 | ------- |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+## Binary Search
+|  |
+| ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
