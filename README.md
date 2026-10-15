@@ -14,6 +14,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Math
@@ -30,6 +31,7 @@
 | [0141-linked-list-cycle](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0141-linked-list-cycle) |
 | [0560-subarray-sum-equals-k](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0560-subarray-sum-equals-k) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Union-Find
 |  |
 | ------- |
@@ -100,4 +102,12 @@
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
