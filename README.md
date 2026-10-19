@@ -12,6 +12,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0560-subarray-sum-equals-k) |
 | [1732-find-the-highest-altitude](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -75,6 +76,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0088-merge-sorted-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Recursion
@@ -105,6 +107,7 @@
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
