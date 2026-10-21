@@ -116,4 +116,8 @@
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## String
+|  |
+| ------- |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3863-minimum-operations-to-sort-a-string) |
 <!---LeetCode Topics End-->
