@@ -27,6 +27,7 @@
 | ------- |
 | [0066-plus-one](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0066-plus-one) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2409-count-days-spent-together](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Hash Table
@@ -123,6 +124,7 @@
 ## String
 |  |
 | ------- |
+| [2409-count-days-spent-together](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Simulation
 |  |
