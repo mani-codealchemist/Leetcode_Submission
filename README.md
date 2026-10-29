@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0128-longest-consecutive-sequence) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -106,6 +107,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0078-subsets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Binary Search
@@ -130,4 +132,8 @@
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/1929-concatenation-of-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/mani-codealchemist/Leetcode_Submission/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
